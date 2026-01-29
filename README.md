@@ -1,7 +1,7 @@
 ---
 
 # 📘 About This Repository  
-This repository contains **all resources, code, pipelines, demos, notes, Jenkinsfiles, and project implementations** used in the *Jenkins Full Course in One Shot* video.
+This repository contains **all resources, code, pipelines, demos, notes, Jenkinsfiles, and project implementations** 
 
 If you're learning DevOps, CI/CD, or Jenkins from scratch — this repo is your **complete reference kit**.
 
